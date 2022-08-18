@@ -66,5 +66,15 @@
         "price": "399"
       }
     ]
+  ],
+  "Users": [
+    {
+      "name": "Abdul Quadir",
+      "batch": "Fw18_0726",
+      "course": "Full Stack Web-Development",
+      "age": 23,
+      "mobile-no": 7540917877,
+      "evaluation_score": 8
+    }
   ]
 }
