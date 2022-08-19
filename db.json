@@ -66,16 +66,5 @@
         "price": "399"
       }
     ]
-  ],
-
-  "users": [
-    {
-      "name": "Abdul Quadir",
-      "batch": "Fw18_0726",
-      "course": "MERN Devlopment",
-      "age": 23,
-      "mobile_no": 7540917877,
-      "evaluation_score": 8
-    }
   ]
 }
