@@ -1303,7 +1303,7 @@
       "e_match": "Aug 25th",
       "type": "T20",
       "number": 5,
-      "categeory": "international"
+      "categeory": "International"
     },
     {
       "match": "South Africa tour of England, 2022",
@@ -1311,7 +1311,7 @@
       "e_match": "September 12th",
       "type": "T20",
       "number": 6,
-      "categeory": "international"
+      "categeory": "International"
     },
     {
       "match": "Sri Lanka Under-19 tour of England, 2022",
@@ -1319,7 +1319,7 @@
       "e_match": "Sep 10th",
       "type": "T20",
       "number": 3,
-      "categeory": "international"
+      "categeory": "International"
     },
     {
       "match": "Australia Women and Pakistan Women tour of Ireland, 2022",
@@ -1327,7 +1327,7 @@
       "e_match": "Jul 25th",
       "type": "T20",
       "number": 3,
-      "categeory": "WOMEN'S"
+      "categeory": "Womens"
     },
     {
       "match": "Rachael Heyhoe Flint Trophy, 2022",
@@ -1335,7 +1335,7 @@
       "e_match": "Sep 25th",
       "type": "ODI",
       "number": 3,
-      "categeory": "WOMEN'S"
+      "categeory": "Womens"
     },
     {
       "match": "The Hundred Women, 2022",
@@ -1343,7 +1343,7 @@
       "e_match": "Sep 3rd",
       "type": "ODI",
       "number": 1,
-      "categeory": "WOMEN'S"
+      "categeory": "Womens"
     },
     {
       "match": "County Championship, 2022",
@@ -1390,14 +1390,14 @@
       "s_match": "Sep 2nd",
       "e_match": "Sep 5th",
       "type": "T20",
-      "categeory": "international"
+      "categeory": "International"
     },
     {
       "match": "Australia Women and Pakistan Women tour of Ireland, 2022",
       "s_match": "Jul 16th",
       "e_match": "Jul 25th",
       "type": "T20",
-      "categeory": "international"
+      "categeory": "International"
     },
     {
       "match": "Royal London One-Day Cup, 2022",
@@ -1412,7 +1412,7 @@
       "e_match": "Aug 21th",
       "type": "T20",
       "number": 3,
-      "categeory": "international"
+      "categeory": "International"
     },
     {
       "match": "ICC Academy Summer Cup, 2022",
@@ -1420,7 +1420,7 @@
       "e_match": "Sep 16th",
       "type": "T20",
       "number": 16,
-      "categeory": "international"
+      "categeory": "International"
     },
     {
       "match": "Assam T20 Challengers Trophy, 2022",
@@ -1436,7 +1436,7 @@
       "e_match": "Aug 26th",
       "type": "T20",
       "number": 15,
-      "categeory": "WOMEN'S"
+      "categeory": "Womens"
     },
     {
       "match": "Maharaja Trophy T20, 2022",
@@ -1452,7 +1452,7 @@
       "e_match": "Aug 29th",
       "type": "T20",
       "number": 2,
-      "categeory": "international"
+      "categeory": "International"
     }
   ]
 }
