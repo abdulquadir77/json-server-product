@@ -1485,5 +1485,19 @@
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
     }
+  ],
+  "react_user": [
+    {
+      "id": 1,
+      "email": "abdul@gmail.com",
+      "password": 12345
+    }
+  ],
+  "react_task": [
+    {
+      "id": 1,
+      "task": "Revise React",
+      "status": 12345
+    }
   ]
 }
